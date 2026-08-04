@@ -4,4 +4,3 @@
 # OS Clutter
 .DS_Store
 Thumbs.db
-*.sql linguist-detectable=true
