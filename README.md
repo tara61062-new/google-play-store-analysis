@@ -1,5 +1,5 @@
 **1. Project Overview**
-Google Play hosts millions of apps across different categories. This project analyses app performance to identify market opportunities, understand user preferences, and provide recommendations for developers using Excel, SQL, and Tableau.
+Google Play hosts millions of apps across different categories. This project analyses app performance to identify market opportunities, understand user preferences, and provide recommendations for developers using Excel, SQL, and Tableau. ![Project Overview](png/1.png) 
 
 **2. Business Questions**
 2.1 Which categories attract the highest number of installs?
@@ -13,15 +13,16 @@ Source:
 Number of rows: 10,357
 Number of columns: 7 
 Description of each table: 
+![Datasets](png/8.png) 
 
 **4. Tech Stack**
 Excel
 SQL
 Tableau
-GitHub
+GitHub ![Tech Stack](png/7.png) 
 
 **5. Project Workflow**
-Raw Data - Excel Cleaning - SQL Database - Business Analysis - Tableau Dashboard -  Business Recommendations
+Raw Data - Excel Cleaning - SQL Database - Business Analysis - Tableau Dashboard -  Business Recommendations ![Key Insights](png/13.png) 
 
 **6. Key Insights**
 ![Key Insights](png/13.png) 
