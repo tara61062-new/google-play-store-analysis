@@ -27,6 +27,9 @@ Raw Data - Excel Cleaning - SQL Database - Business Analysis - Tableau Dashboard
 
 
 **7. Dashboard Preview**
+To visit the live layout ([https://tableau.com](https://public.tableau.com/app/profile/basant.pandey/viz/tableau_17857535985400/Dashboard1))
+![Tableau Dashboard Preview](Tableau
+/Dashboard.png) 
 
 
 **8. Business Recommendations**
