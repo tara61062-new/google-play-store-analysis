@@ -1,4 +1,4 @@
-use google_play_store;
+USE google_play_store;
 
 -- 2. Does a paid apps secure higher user ratings and better engagement than a free model?
 
