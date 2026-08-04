@@ -10,8 +10,8 @@ Google Play hosts millions of apps across different categories. This project ana
 
 **3. Dataset**
 Source: 
-Number of rows: 
-Number of columns: 
+Number of rows: 10,357
+Number of columns: 7 
 Description of each table: 
 
 **4. Tech Stack**
@@ -24,6 +24,7 @@ GitHub
 Raw Data - Excel Cleaning - SQL Database - Business Analysis - Tableau Dashboard -  Business Recommendations
 
 **6. Key Insights**
+![Key Insights](png/13.png) 
 
 
 **7. Dashboard Preview**
@@ -32,3 +33,5 @@ To visit the live layout ([https://tableau.com](https://public.tableau.com/app/p
 
 
 **8. Business Recommendations**
+![Final Recommnedation](png/14.png)
+
