@@ -25,22 +25,22 @@ GitHub ![Tech Stack](png/7.png)
 
 
 **6. Business Questions** <br>
-6.1 Which categories attract the highest number of installs? <br>
-6.2 Do paid apps outperform free apps? <br>
-6.3 Which categories have the highest customer ratings? <br>
-6.4 Which markets appear saturated? <br>
-6.5 Which app categories represent the best investment opportunities?
+6.1 Which categories attract the highest number of installs? <br> <br>
+6.2 Do paid apps outperform free apps? <br> <br>
+6.3 Which categories have the highest customer ratings? <br> <br>
+6.4 Which markets appear saturated? <br> <br>
+6.5 Which app categories represent the best investment opportunities? <br>
 
 
-**7. Hypothesis 1: Does high install numbers indicate better market entry opportunities?**
+**7. Hypothesis 1 Research: Does high install numbers indicate better market entry opportunities?**
 ![H1](png/9.png) ![H1.1](png/10.png) 
 
 
-**8. Hypothesis 2: Does paid apps achieve higher ratings and engagement due to committed user base?**
+**8. Hypothesis 2 Research: Does paid apps achieve higher ratings and engagement due to committed user base?**
 ![H2](png/11.png) 
 
 
-**9. Hypothesis 3: Does smaller app file sizes result in higher downloads?**
+**9. Hypothesis 3 Research: Does smaller app file sizes result in higher downloads?**
 ![H3](png/12.png) 
 
 
