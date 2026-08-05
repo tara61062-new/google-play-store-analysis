@@ -27,13 +27,13 @@ GitHub ![Tech Stack](png/7.png)
 2.5 Which app categories represent the best investment opportunities?
 
 **7. Hypothesis 1: Does high install numbers indicate better market entry opportunities?**
-![H1](png/10.png) ![H1.1](png/11.png) 
+![H1](png/9.png) ![H1.1](png/10.png) 
 
 **8. Hypothesis 2: Does paid apps achieve higher ratings and engagement due to committed user base?**
-![H2](png/12.png) 
+![H2](png/11.png) 
 
 **9. Hypothesis 3: Does smaller app file sizes result in higher downloads?**
-![H3](png/13.png) 
+![H3](png/12.png) 
 
 **10. Dashboard Preview**
 To visit the live layout ([https://tableau.com](https://public.tableau.com/app/profile/basant.pandey/viz/tableau_17857535985400/Dashboard1))
