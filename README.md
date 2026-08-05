@@ -8,8 +8,8 @@ Google Play hosts millions of apps across different categories. This project ana
 ![Hypothesis](png/5.png) 
 
 **4. Dataset**
-Source: ([Kaggle: Google Play Store App Data](https://www.kaggle.com/datasets/whenamancodes/play-store-apps))
-Number of rows: 10,357
+Source: ([Kaggle: Google Play Store App Data](https://www.kaggle.com/datasets/whenamancodes/play-store-apps)) <br>
+Number of rows: 10,357 <br>
 Number of columns: 14
 ![Datasets](png/8.png) 
 
