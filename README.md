@@ -60,5 +60,6 @@ To visit the live layout ([https://tableau.com](https://public.tableau.com/app/p
 
 
 **13. Contact**
-Basant Pandey @ tara61062@gmail.com 🥰
+Basant Pandey @ tara61062@gmail.com ❤️ <br>
+I am desperately looking for new opportunity. 🥰
 
