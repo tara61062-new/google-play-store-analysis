@@ -24,12 +24,12 @@ Tableau,
 GitHub ![Tech Stack](png/7.png) 
 
 
-**6. Business Questions**
-2.1 Which categories attract the highest number of installs?
-2.2 Do paid apps outperform free apps?
-2.3 Which categories have the highest customer ratings?
-2.4 Which markets appear saturated?
-2.5 Which app categories represent the best investment opportunities?
+**6. Business Questions** <br>
+6.1 Which categories attract the highest number of installs? <br>
+6.2 Do paid apps outperform free apps? <br>
+6.3 Which categories have the highest customer ratings? <br>
+6.4 Which markets appear saturated? <br>
+6.5 Which app categories represent the best investment opportunities?
 
 
 **7. Hypothesis 1: Does high install numbers indicate better market entry opportunities?**
